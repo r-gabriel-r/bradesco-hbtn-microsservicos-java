@@ -1,0 +1,8 @@
+HTTP/1.1 200 
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 57
+Date: Sat, 08 Nov 2025 17:33:45 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+BEM VINDO A AULA DE MICROSSERVIÃ‡O USANDO SPRING BOOT !!!

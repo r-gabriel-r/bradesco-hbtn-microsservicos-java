@@ -1,0 +1,8 @@
+HTTP/1.1 200 
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 30
+Date: Sat, 08 Nov 2025 17:52:38 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+LOGIN EFETUADO COM SUCESSO !!!
