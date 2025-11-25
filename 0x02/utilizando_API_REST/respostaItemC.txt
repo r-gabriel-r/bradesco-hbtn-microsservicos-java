@@ -1,8 +1,7 @@
-HTTP/1.1 200 
-Content-Type: application/json
-Transfer-Encoding: chunked
-Date: Tue, 25 Nov 2025 00:08:16 GMT
-Keep-Alive: timeout=60
-Connection: keep-alive
-
-{"id":2,"nome":"Imagine","artista":"John Lennon","album":"Imagine","anoLancamento":"1971"}
+{
+	"id":2,
+	"nome":"Imagine",
+	"artista":"John Lennon",
+	"album":"Imagine",
+	"anoLancamento":"1971"
+}

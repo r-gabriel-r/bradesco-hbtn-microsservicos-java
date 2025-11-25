@@ -1,8 +1,1 @@
-HTTP/1.1 200 
-Content-Type: text/plain;charset=UTF-8
-Content-Length: 34
-Date: Tue, 25 Nov 2025 00:06:47 GMT
-Keep-Alive: timeout=60
-Connection: keep-alive
-
 Bem-vindo ao serviÃ§o de mÃºsicas!
