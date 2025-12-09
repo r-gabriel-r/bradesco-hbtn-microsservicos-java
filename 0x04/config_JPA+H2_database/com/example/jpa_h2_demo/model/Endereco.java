@@ -3,6 +3,8 @@ package com.example.jpa_h2_demo.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
 
 @Entity
 public class Endereco {
@@ -21,6 +23,10 @@ public class Endereco {
 	private String cidade;
 	
 	private String estado;
+	
+	@ManyToOne
+	@JoinColumn(name = "cliente_id") 
+	private Cliente cliente;
 
 	public long getId() {
 		return id;
@@ -76,6 +82,14 @@ public class Endereco {
 
 	public void setEstado(String estado) {
 		this.estado = estado;
+	}
+
+	public Cliente getCliente() {
+		return cliente;
+	}
+
+	public void setCliente(Cliente cliente) {
+		this.cliente = cliente;
 	}
 	
 	
