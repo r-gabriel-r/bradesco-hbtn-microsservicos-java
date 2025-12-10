@@ -3,7 +3,8 @@
    "nome": "Manoel Antunes",
    "idade": 26,
    "email": "manoel@email.com",
-   "telefones":    [ {
+   "telefones":    [ 
+      {
          "id": 1,
          "ddd": "14",
          "numero": "35445585"
@@ -13,7 +14,8 @@
          "ddd": "14",
          "numero": "99668855"
       }],
-   "enderecos": [   {
+   "enderecos": [
+    {
       "id": 2,
       "logradouro": "RUA",
       "endereco": "LÁ LONGE",
@@ -21,5 +23,6 @@
       "bairro": "JARDIM BONITO",
       "cidade": "CIDADE DO NORTE",
       "estado": "SP"
-   }]
+   }
+  ]
 }
