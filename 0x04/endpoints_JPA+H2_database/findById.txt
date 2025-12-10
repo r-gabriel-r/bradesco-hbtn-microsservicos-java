@@ -18,8 +18,8 @@
    "enderecos": [   {
       "id": 2,
       "logradouro": "RUA",
-      "endereco": "LÃ� LONGE",
-      "numero": 487,
+      "endereco": "LÁ LONGE",
+      "numero": "487",
       "bairro": "JARDIM BONITO",
       "cidade": "CIDADE DO NORTE",
       "estado": "SP"
