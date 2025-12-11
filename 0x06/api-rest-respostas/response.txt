@@ -13,7 +13,7 @@ Transfer-Encoding: chunked
 Date: Thu, 11 Dec 2025 00:47:15 GMT
 Connection: close
 
-{"status":400,"message":"You have entered userId 0 invalid."}
+{"status":400,"message":"You have entered ID 0 invalid."}
 
 
 HTTP/1.1 400 
